@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+### QA4IQI: Quality Assessment for Interoperable Quantitative CT-Imaging
 
-You can use the [editor on GitHub](https://github.com/QA4IQI/qa4iqi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Medical images form one of the corner stones of diagnosis for various conditions. They provide not only non-invasive visual observations but also allow quantitative measurements of size and tissue texture. Similar to most measurement devices, such as a simple ruler, medical imaging devices also need to be calibrated. While calibration for geometric measurements and tissue density are commonly performed, features that quantify more complex characteristics are often neglected. For example, tissue heterogeneity is correlated with aggressiveness in various cancer types. Quantitative metrics that measure heterogeneity are not currently considered during calibration, which makes medical imaging difficult to use as a measurement tool. This project aims to close this gap.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QA4IQI/qa4iqi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The QA4IQI project aims to build infrastructure crucial for integrating imaging data in research in personalised health and translating advanced image computing techniques to clinical practice. It will aid the establishment of both an automated imaging quality assessment and quantitative parameter extraction pipeline. In this fashion, unstructured imaging data can automatically be transformed in structured, imaging-derived quantitative parameters.
