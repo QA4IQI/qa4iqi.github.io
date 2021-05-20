@@ -8,14 +8,14 @@ The proposed approach to assess the compromise between feature stability and dis
 Jimenez del Toro et al., "The discriminative power and stability of radiomics features with CT variations: Task-based analysis in an anthropomorphic 3D-printed CT phantom", Investigative Radiology, In press.
 
 When compared to other approaches assessing the influence of CT parameters on radiomics features, the advantages of our approach lies the two following aspects:
-* The use of a 3D-printed radio-opaque and anthropomprphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminatory power.
+* The use of a 3D-printed radio-opaque and anthropomorphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminatory power.
 * The assessment of the discriminative power of features, allowing to put into perspective the intra-class variability resulting from feature instabilities.
 
 Impact of reconstruction kernel on image appearance:
 
 ![Recon Kernel](/reconKernel.png)
 
-The phantom and Regions Of Interests used to measure stability and and discriminatory power in the liver. They include 2 normal liver tissue areas (green), 2 benign cysts (blue), 1 liver metastasis from a colon carcinoma (red) and 1 hemangioma (yellow).
+The phantom and regions of interests used to measure stability and and discriminatory power in the liver. They include 2 normal liver tissue areas (green), 2 benign cysts (blue), 1 liver metastasis from a colon carcinoma (red) and 1 hemangioma (yellow).
 
 ![phantom](/phantom.png)
 ![ROIs](/ROIs.png)
