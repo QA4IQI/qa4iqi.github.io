@@ -25,7 +25,7 @@ A principal component overview of intraclass variability seen in a feature space
 
 This reveals that the intraclass variability caused by CT parameters remains limited when compared to inter-class variability.
 
-The proposed analysis comparing the discriminative power and stability of various features types reveals that deep features constitute an excellent trade-off.
+The proposed analysis comparing the discriminative power and stability of various features types reveals that deep features seem to achieve the best trade-off in this context.
 ![stabVSdiscr](/stabVSdiscr.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN). 
