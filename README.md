@@ -29,3 +29,4 @@ The proposed analysis comparing the discriminative power and stability of variou
 ![stabVSdiscr](/stabVSdiscr.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN).
+![USBlogo](/USBlogo.jpg)
