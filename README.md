@@ -29,10 +29,5 @@ The proposed analysis comparing the discriminative power and stability of variou
 ![stabVSdiscr](/stabVSdiscr.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN).
-![USBlogo](/USBlogo.jpg)
-![HES_SO_VS](/HES_SO_VS.png)
-![ETHZlogo](/ETHZlogo.png)
-![CHUV](/CHUV.png)
-![USZ](/USZ.jpg)
-![Inselspital](/Inselspital.png)
-![HUG](/HUG.jpg)
+
+<img src="USBlogo.jpg" width="130" /> <img src="HES_SO_VS.png" width="130" /> <img src="ETHZlogo.png" width="130" /> <img src="CHUV.png" width="130" /> <img src="USZ.jpg" width="130" /> <img src="Inselspital.png" width="130" /> <img src="HUG.jpg" width="130" />
