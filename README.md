@@ -15,6 +15,11 @@ Impact of reconstruction kernel on image appearance:
 
 ![Recon Kernel](/reconKernel.png)
 
+The phantom and Regions Of Interests used to measure stability and and discriminatory power in the liver. They include 2 normal liver tissue areas (green), 2 benign cysts (blue), 1 liver metastasis from a colon carcinoma (red) and 1 hemangioma (yellow).
+
+![phantom](/phantom.png)
+![ROIs](/ROIs.png)
+
 The project is supported by the Swiss Personalized Health Network (SPHN). 
 
 ![SPHN Logo](/SPHN-Logo-SIB-Colors-155x111.png)
