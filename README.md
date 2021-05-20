@@ -12,7 +12,9 @@ When compared to other approaches assessing the influence of CT parameters on ra
 * The assessment of the discriminative power of features, allowing to put into perspective the intra-class variability resulting from feature instabilities.
 
 Impact of reconstruction kernel on image appearance:
+
 ![Recon Kernel](/reconKernel.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN). 
+
 ![SPHN Logo](/SPHN-Logo-SIB-Colors-155x111.png)
