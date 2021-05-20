@@ -1,4 +1,4 @@
-### QA4IQI: Quality Assessment for Interoperable Quantitative CT-Imaging
+### QA4IQI: Quality Assessment for Interoperable Quantitative CT-Imaging ![SPHN Logo](/SPHN-Logo-SIB-Colors-155x111.png)
 
 Medical images form one of the corner stones of diagnosis for various conditions. They provide not only non-invasive visual observations but also allow quantitative measurements of size and tissue texture. Similar to most measurement devices, such as a simple ruler, medical imaging devices also need to be calibrated. While calibration for geometric measurements and tissue density are commonly performed, features that quantify more complex characteristics are often neglected. For example, tissue heterogeneity is correlated with aggressiveness in various cancer types. Quantitative metrics that measure heterogeneity are not currently considered during calibration, which makes medical imaging difficult to use as a measurement tool. This project aims to close this gap.
 
