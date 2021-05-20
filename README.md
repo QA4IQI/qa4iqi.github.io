@@ -8,9 +8,8 @@ The proposed approach to assess the compromise between feature stability and dis
 Jimenez del Toro et al., "The discriminative power and stability of radiomics features with CT variations: Task-based analysis in an anthropomorphic 3D-printed CT phantom", Investigative Radiology, In press.
 
 When compared to other approaches assessing the influence of CT parameters on radiomics features, the advantages of our approach lies the two following aspects:
-* The use of a 3D-printed radio-opaque and anthropomprphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminative power.
+* The use of a 3D-printed radio-opaque and anthropomprphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminatory power.
 * The assessment of the discriminative power of features, allowing to put into perspective the intra-class variability resulting from feature instabilities.
 
 The project is supported by the Swiss Personalized Health Network (SPHN). 
 ![SPHN Logo](/SPHN-Logo-SIB-Colors-155x111.png)
-Format: ![Alt Text](url)
