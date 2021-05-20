@@ -11,5 +11,8 @@ When compared to other approaches assessing the influence of CT parameters on ra
 * The use of a 3D-printed radio-opaque and anthropomprphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminatory power.
 * The assessment of the discriminative power of features, allowing to put into perspective the intra-class variability resulting from feature instabilities.
 
+Impact of reconstruction kernel on image appearance:
+![Recon Kernel](/reconKernel.pdf)
+
 The project is supported by the Swiss Personalized Health Network (SPHN). 
 ![SPHN Logo](/SPHN-Logo-SIB-Colors-155x111.png)
