@@ -3,3 +3,9 @@
 Medical images form one of the corner stones of diagnosis for various conditions. They provide not only non-invasive visual observations but also allow quantitative measurements of size and tissue texture. Similar to most measurement devices, such as a simple ruler, medical imaging devices also need to be calibrated. While calibration for geometric measurements and tissue density are commonly performed, features that quantify more complex characteristics are often neglected. For example, tissue heterogeneity is correlated with aggressiveness in various cancer types. Quantitative metrics that measure heterogeneity are not currently considered during calibration, which makes medical imaging difficult to use as a measurement tool. This project aims to close this gap.
 
 The QA4IQI project aims to build infrastructure crucial for integrating imaging data in research in personalised health and translating advanced image computing techniques to clinical practice. It will aid the establishment of both an automated imaging quality assessment and quantitative parameter extraction pipeline. In this fashion, unstructured imaging data can automatically be transformed in structured, imaging-derived quantitative parameters.
+
+The proposed approach to assess the compromise between feature stability and discriminative power is summarized in the following paper: 
+Jimenez del Toro et al., "The discriminative power and stability of radiomics features with CT variations: Task-based analysis in an anthropomorphic 3D-printed CT phantom", Investigative Radiology, In press.
+
+When compared to other approaches assessing the influence of CT parameters on radiomics features, the advantages of our approach lies the two following aspects:
+* The use of a 3D-printed radio-opaque and anthropomprphic phantom allowing repeated multiple scans without irradiating a real patient. This yields high statistical power to assess both feature stability and discriminative power.
