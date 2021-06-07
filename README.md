@@ -27,6 +27,7 @@ This reveals that the intraclass variability caused by CT parameters remains lim
 
 The proposed analysis comparing the discriminative power and stability of various features types reveals that deep features seem to achieve the best trade-off in this context.
 ![stabVSdiscr](/stabVSdiscr.png)
+![pipeline](/pipeline.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN).
 
