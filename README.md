@@ -19,7 +19,7 @@ The phantom and regions of interests used to measure stability and and discrimin
 
 ![phantom](/phantom.png)
 ![qa4iqiPipeline](/qa4iqi_pipeline.png)
-![ROIs](/ROIs_v1.png)
+![ROIs](/ROIs_2d3d.png)
 
 A principal component overview of intraclass variability seen in a feature space spanned by 86 radiomics features, populated with 240 CTs from 30 repeated phantom acquisitions for each of the 8 groups of CT recon. parameter variation (2 recon. algorithms, 4 recon. kernels, 4 slice thicknesses, 3 slice spacings):
 ![PCA](/PCA_v1.png)
