@@ -18,6 +18,7 @@ Impact of reconstruction kernel on image appearance:
 The phantom and regions of interests used to measure stability and and discriminatory power in the liver. They include 2 normal liver tissue areas (green), 2 benign cysts (blue), 1 liver metastasis from a colon carcinoma (red) and 1 hemangioma (yellow).
 
 ![phantom](/phantom.png)
+![qa4iqiPipeline](/qa4iqi_pipeline.png)
 ![ROIs](/ROIs.png)
 
 A principal component overview of intraclass variability seen in a feature space spanned by 86 radiomics features, populated with 240 CTs from 30 repeated phantom acquisitions for each of the 8 groups of CT recon. parameter variation (2 recon. algorithms, 4 recon. kernels, 4 slice thicknesses, 3 slice spacings):
@@ -27,7 +28,6 @@ This reveals that the intraclass variability caused by CT parameters remains lim
 
 The proposed analysis comparing the discriminative power and stability of various features types reveals that deep features seem to achieve the best trade-off in this context.
 ![stabVSdiscr](/stabVSdiscr.png)
-![qa4iqiPipeline](/qa4iqi_pipeline.png)
 
 The project is supported by the Swiss Personalized Health Network (SPHN).
 
