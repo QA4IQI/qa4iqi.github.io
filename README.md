@@ -32,6 +32,6 @@ The proposed analysis comparing the discriminative power and stability of variou
 The project is supported by the Swiss Personalized Health Network (SPHN).
 
 ### Code
-The code for the project is constantly being updated and can be found here: https://github.com/QA4IQI/qa4iqi-extraction
+The code for the project is constantly being updated and can be found here: <https://github.com/QA4IQI/qa4iqi-extraction>
 
 <img src="USBlogo.jpg" width="130" /> <img src="HES_SO_VS.png" width="130" /> <img src="ETHZlogo.png" width="130" /> <img src="CHUV.png" width="130" /> <img src="USZ.jpg" width="130" /> <img src="Inselspital.png" width="130" /> <img src="HUG.jpg" width="130" />
